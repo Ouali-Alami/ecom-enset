@@ -1,0 +1,48 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+# Fichiers et répertoires à ignorer
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/libraries/
+.idea/other.xml
+.idea/.idea.iml
+
+# Configurations locales spécifiques à l'IDE (pas nécessaires à partager)
+.idea/misc.xml
+.idea/vcs.xml
+.idea/modules.xml
+
+# Fichiers compilés et autres fichiers générés
+*.class
+*.log
+
+# Dossier de build Maven
+target/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
