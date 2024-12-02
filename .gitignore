@@ -14,7 +14,8 @@ out/
 .idea/misc.xml
 .idea/vcs.xml
 .idea/modules.xml
-
+config-repo/consul-data/
+config-repo/consul_start.sh
 # Fichiers compilés et autres fichiers générés
 *.class
 *.log
@@ -46,3 +47,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/
