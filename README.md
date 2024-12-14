@@ -36,9 +36,9 @@ Si vous voulez créer vos propres applications Spring basées sur les microservi
 
 TODO : ajouter les dépôts des différents services
 ```bash
-    git clone git@github.com:Ouali-Alami/
-    git clone git@github.com:Ouali-Alami/
-    git clone git@github.com:Ouali-Alami/
+git clone git@github.com:Ouali-Alami/
+git clone git@github.com:Ouali-Alami/
+git clone git@github.com:Ouali-Alami/
 ```
 
 Ici, on supposera que vous voulez simplement tester l'application ecom-enset.
@@ -46,7 +46,7 @@ Ici, on supposera que vous voulez simplement tester l'application ecom-enset.
 Installer les dépendances avec Maven:
 
 ```bash
-    git clone git@github.com:Ouali-Alami/ms-enset.git
+git clone git@github.com:Ouali-Alami/ms-enset.git
     cd ecom-enset
     mvn install
 ```
@@ -68,7 +68,7 @@ puis demarrer l'app via :
 mvn spring-boot:run
 ```
 
-
+TODO: FR -> EN
 
 
 
